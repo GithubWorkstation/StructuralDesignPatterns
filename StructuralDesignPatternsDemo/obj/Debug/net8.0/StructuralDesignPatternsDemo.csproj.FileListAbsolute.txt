@@ -1,0 +1,14 @@
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\bin\Debug\net8.0\StructuralDesignPatternsDemo.exe
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\bin\Debug\net8.0\StructuralDesignPatternsDemo.deps.json
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\bin\Debug\net8.0\StructuralDesignPatternsDemo.runtimeconfig.json
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\bin\Debug\net8.0\StructuralDesignPatternsDemo.dll
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\bin\Debug\net8.0\StructuralDesignPatternsDemo.pdb
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\StructuralDesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\StructuralDesignPatternsDemo.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\StructuralDesignPatternsDemo.AssemblyInfo.cs
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\StructuralDesignPatternsDemo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\StructuralDesignPatternsDemo.dll
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\refint\StructuralDesignPatternsDemo.dll
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\StructuralDesignPatternsDemo.pdb
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\StructuralDesignPatternsDemo.genruntimeconfig.cache
+C:\Users\labuser\Desktop\structural_design_patterns\StructuralDesignPatternsDemo\obj\Debug\net8.0\ref\StructuralDesignPatternsDemo.dll
